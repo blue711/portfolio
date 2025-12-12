@@ -1,0 +1,605 @@
+.main{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(232, 232, 232);
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.nav{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 10%;
+    padding-top: 10px;
+}
+.niv{
+    font-size: large;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    margin-left: 35%;
+    margin-top: -40px;
+}
+.img1{
+    width: 100%;
+    height: 500px;
+}
+.box1{
+    width: 42%;
+    height: 500px;
+    background-color: white;
+    margin-left: 105px;
+    margin-top: 55px;
+}
+.box2{
+    width: 41%;
+    height: 500px;
+    background-color: white;
+    float: right;
+    margin-right: 107px;
+    margin-top: -500px;
+}
+.img2{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+}
+.name{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: -160px;
+}
+.skill{
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -25%;
+    margin-bottom: -20px;
+}
+.per{
+       font-size: large;
+       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       margin-left: -16%;
+       line-height: 25px;
+}
+.about{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: -29%;
+}
+.op{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: -30%;
+    margin-top: -20px;
+    line-height: 10px;
+}
+.services{
+         font-size: xx-large;
+         font-weight: 700;
+         margin-left: 40%;
+         margin-top: 7%;
+}
+.lorem{
+    margin-left: 33%;
+}
+.box3{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    margin-left: 13%;
+    border-radius: 20px;
+}
+.box4{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    margin-left: 39%;
+    margin-top: -250px;
+    border-radius: 20px;
+}
+.box5{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    margin-left: 65%;
+    margin-top: -250px;
+    border-radius: 20px;
+}
+.box6{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    margin-left: 13%;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.box7{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    margin-left: 39%;
+    margin-top: -250px;
+    border-radius: 20px;
+}
+.box8{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    margin-left: 65%;
+    margin-top: -250px;
+    border-radius: 20px;
+}
+.sicon{
+        font-size: 30px;
+        background-color: rgba(255, 254, 254, 0.95);
+        border: 10px solid blue;
+        padding:20px;
+        border-radius: 100%;
+        margin-top: 20px;
+}
+.user{
+        font-size: 30px;
+        background-color: rgba(255, 254, 254, 0.95);
+        border: 10px solid blue;
+        padding:20px;
+        border-radius: 100%;
+        margin-top: 20px;
+}
+.camera{
+        font-size: 30px;
+        background-color: rgba(255, 254, 254, 0.95);
+        border: 10px solid blue;
+        padding:20px;
+        border-radius: 100%;
+        margin-top: 20px;
+}
+.shear{
+    font-size: 30px;
+    background-color: rgba(255, 254, 254, 0.95);
+    border: 10px solid blue;
+     padding:20px;
+     border-radius: 100%;
+     margin-top: 20px;
+}
+.chart{
+    font-size: 30px;
+    background-color: rgba(255, 254, 254, 0.95);
+    border: 10px solid blue;
+    padding:20px;
+    border-radius: 100%;
+    margin-top: 20px;
+}
+.com{
+    font-size: 30px;
+    background-color: rgba(255, 254, 254, 0.95);
+    border: 10px solid blue;
+     padding:20px;
+     border-radius: 100%;
+     margin-top: 20px;
+}
+.web{
+    font-size: large;
+    font-weight: 900;
+    margin-left: -25%;
+    margin-top: -20px;
+}
+.wd{
+    font-size: large;
+    font-weight: 900;
+    margin-left: -30%;
+    margin-top: -20px;
+}
+.pp{
+    font-size: large;
+    font-weight: 900;
+    margin-left: -25%;
+    margin-top: -20px;
+}
+.rd{
+    font-size: large;
+    font-weight: 900;
+    margin-left: -35%;
+    margin-top: -20px;
+}
+.gr{
+    font-size: large;
+    font-weight: 900;
+    margin-left: -30%;
+    margin-top: -20px;
+}
+.mr{
+    font-size: large;
+    font-weight: 900;
+    margin-left: -35%;
+    margin-top: -20px;
+}
+.l1{
+   margin-left: -40%;
+   margin-top: -30px;
+}
+.l2{
+    margin-left: -40%;
+    margin-top: -30px;
+}
+.l3{
+    margin-left: -40%;
+    margin-top: -30px;
+}
+.l4{
+    margin-left: -40%;
+    margin-top: -30px;
+}
+.l5{
+    margin-left: -40%;
+    margin-top: -30px;
+}
+.l6{
+    margin-left: -40%;
+    margin-top: -30px;
+}
+.blue{
+width: 100%;
+height: 250px;
+background-color: rgb(42, 145, 248);
+margin-top: 15px;
+}
+.pen1{
+    font-size: 30px;
+    color: aliceblue;
+    border: 10px solid rgb(207, 207, 210);
+    padding: 20px;
+    border-radius: 100%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.pen2{
+    font-size: 30px;
+    color: aliceblue;
+    border: 10px solid rgb(207, 207, 210);
+    padding: 20px;
+    border-radius: 100%;
+    margin-left: 15%;
+}
+.pen3{
+    font-size: 30px;
+    color: aliceblue;
+    border: 10px solid rgb(207, 207, 210);
+    padding: 20px;
+    border-radius: 100%;
+    margin-left: 15%;
+}
+.pen4{
+    font-size: 30px;
+    color: aliceblue;
+    border: 10px solid rgb(207, 207, 210);
+    padding: 20px;
+    border-radius: 100%;
+    margin-left: 15%;
+}
+.wc{
+    font-size: large;
+    color: white;
+    margin-left: 90px;
+}
+.ye{
+    font-size: large;
+    color: white;
+    margin-left: 180px;
+    margin-top: -7.5%;
+}
+.tc{
+    font-size: large;
+    color: white;
+    margin-left: 42%;
+    margin-top: -7.5%;
+}
+.aw{
+    font-size: large;
+    color: white;
+    margin-left: 73%;
+    margin-top: -8%;
+}
+.port{
+    font-size: xx-large;
+         font-weight: 900;
+         margin-left: 40%;
+         margin-top: 7%;
+}
+.lorem1{
+    margin-left: 33%;
+}
+.box9{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin-left: 13%;
+    margin-bottom: -10px;
+    border-radius: 15px;
+}
+.box10{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin-left: 39%;
+    margin-top: -300px;
+    border-radius: 15px;
+}
+.box11{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin-left: 65%;
+    margin-top: -300px;
+    border-radius: 15px;
+}
+.box12{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin-left: 13%;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.box13{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin-left: 39%;
+    margin-top: -300px;
+    border-radius: 15px;
+}
+.box14{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin-left: 65%;
+    margin-top: -300px;
+    border-radius: 15px;
+}
+.img3{
+    width: 280px;
+    height: 230px;
+    padding: 10px;
+}
+.img4{
+    width: 280px;
+    height: 230px;
+    padding: 10px;
+}
+.img5{
+    width: 280px;
+    height: 230px;
+    padding: 10px;
+}
+.img6{
+    width: 280px;
+    height: 230px;
+    padding: 10px;
+}
+.img7{
+    width: 280px;
+    height: 230px;
+    padding: 10px;
+}
+.img8{
+    width: 280px;
+    height: 230px;
+    padding: 10px;
+}
+.lorem2{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem3{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem4{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem5{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem6{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem7{
+    font-size: large;
+    margin-left: 10px;
+}
+.box15{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(71, 154, 250);
+    margin-top: 50px;
+}
+.img9{
+    width: 150px;
+    height: 150px;
+    margin-left: 530px;
+    margin-top: 80px;
+    border-radius: 100px;
+}
+.tex{
+    font-size: x-large;
+    font-weight: 500;
+    margin-left: 530px;
+}
+.tex1{
+    font-size: x-large;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.blog{
+    font-size: xx-large;
+    font-weight: 900;
+    margin-left: 45%;
+    margin-top: 7%;
+}
+.lorem8{
+    margin-left: 36%;
+}
+.box16{
+    width: 330px;
+    height: 380px;
+    background-color: white;
+    margin-left: 8%;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.box17{
+    width: 330px;
+    height: 380px;
+    background-color: white;
+    margin-left: 37%;
+    margin-top: -380px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.box18{
+    width: 330px;
+    height: 380px;
+    background-color: white;
+    margin-left: 66%;
+    margin-top: -380px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.img10{
+    width: 310px;
+    height: 230px;
+    padding: 10px;
+}
+.img11{
+    width: 310px;
+    height: 230px;
+    padding: 10px;
+}
+.img12{
+    width: 310px;
+    height: 230px;
+    padding: 10px;
+}
+.lorem9{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem10{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem11{
+    font-size: large;
+    margin-left: 10px;
+}
+.lorem12{
+        font-size: medium;
+        font-weight: 200;
+        font-style: calc();
+}
+.lorem13{
+    font-size: medium;
+    font-weight: 200;
+    font-style: calc();
+}
+.lorem14{
+    font-size: medium;
+    font-weight: 200;
+    font-style: calc();
+}
+.box19{
+    width: 100%;
+    height: 750px;
+    background-color: rgb(48, 142, 249);
+    margin-top: 50px;
+}
+.box20{
+    width: 85%;
+    height: 580px;
+    background-color: white;
+    margin-left: 85px;
+    margin-top: -56%;
+}
+.us{
+    font-size: large;
+    font-weight: 300;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.name{
+    width: 50%;
+    height: 40px;
+    font-size: small;
+    margin-left: -0px;
+    margin-bottom: 20px;
+    
+}
+.email{
+    width:50% ;
+    height: 40px;
+    font-size: small;
+    margin-bottom: 20px;
+}
+.submit{
+    width: 50%;
+    height: 40px;font-size: small;
+    margin-bottom: 20px ;
+}
+.no{
+width: 50%;
+height: 200px;
+margin-bottom: 20px;
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    margin-left: 110px;
+    border: none;
+    background-color: rgb(87, 163, 255);
+    color: white;
+    border-radius: 20px;
+}
+.in{
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 55%;
+    margin-top: -51%;
+}
+.lorem15{
+    font-size: x-large; 
+    font-weight: 400;
+    margin-left: 31%;
+    padding-top: 0px;
+}
+.tack{
+     color: blue;
+     margin-left: 55%;
+}
+.phn{
+    color: blue;
+    margin-left: 55%;
+}
+.env{
+     color: blue;
+     margin-left: 55%;
+}
+.lorem16{
+    margin-left: 58%;
+    margin-top: -93px;
+}
+.lorem17{
+    margin-left: 58% ;
+}
+.lorem18{
+    margin-left: 58%;
+}
